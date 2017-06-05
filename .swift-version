@@ -1,0 +1,8 @@
+
+ -> .swift-version -> .swift-version
+    - ERROR | spec: The specification defined in `.swift-version` could not be loaded.
+
+[!] Unsupported specification format ``.
+
+[!] .swift-version did not pass validation, due to 1 error.
+You can use the `--no-clean` option to inspect any issue.
